@@ -7,10 +7,10 @@ TDD a pure function that takes a integer number and returns a string of all numb
 1. Numbers evenly divisable by 5 should be replace with `Bizz`
 1. Numbers evenly divisable by 3 **and** 5 should be replace with `FizzBuzz`
 
-For example, calling the function with 6 would return:
+For example, calling the function with 16 would return:
 
 ```
-1, 2, Fizz, 4, Buzz, 6
+1, 2, Fizz, 4, Buzz, Fizz, 7, 8, Fizz, Buzz, 11, Fizz, 13, 14, FizzBuzz, 16
 ```
 
 ## Techniques and Concepts Used in this Lab
