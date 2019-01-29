@@ -15,7 +15,7 @@ For example, calling the function with 16 would return:
 
 ## Techniques and Concepts Used in this Lab
 
-1. **ESModules:** `export default` and `import` default
+
 1. **Tool:** Use 3rd-party testing library
 1. **Variables:** Declaring and assign `const` variable
 1. **Variables:** Assign variable from property of global object
@@ -24,6 +24,10 @@ For example, calling the function with 16 would return:
 1. **Functions:** Using an anonymous function as a function argument
 1. **Functions:** Define function parameter
 1. **Testing:** Test assertions with `assert.equal`
+
+## Stretch Techniques You May Have Encountered
+
+1. **ESModules:** `export default` and `import` default
 1. **Variables:** Declare `let` variable with sensible default
 1. **Variables:** Reassign `let` variable in a loop
 1. **Strings:** String concatenation with `+` and `+=`
