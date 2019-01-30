@@ -31,3 +31,4 @@ For example, calling the function with 16 would return:
 1. **Variables:** Declare `let` variable with sensible default
 1. **Variables:** Reassign `let` variable in a loop
 1. **Strings:** String concatenation with `+` and `+=`
+1. **return**
